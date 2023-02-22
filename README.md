@@ -12,3 +12,5 @@ Cilindro mais rolete para tracionar perfil
 Sensor que detete presença do perfil
 
 primeiro teste
+
+eixo elétrico
