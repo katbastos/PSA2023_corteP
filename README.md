@@ -16,16 +16,5 @@ Fibras com amplificador que detete presença do perfil
 
 Eixo elétrico
 
+Plataforma de rolos à entrada e saida (tamanho minimo igual ao máximo do perfil)
 
-
-#22 de Fevereiro
-
-Divisão e planeamento das tarefas:
-
-1 - Esquema eletrico - Catarina Bastos  17 Março
-
-2 - Projeto mecânico - Francisco Gonçaves 
-
-3 - Programação - Emanuel Fonseca 
-
-4 - Check - Todos 26 de Maio
