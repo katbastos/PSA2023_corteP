@@ -21,7 +21,9 @@ Motor passo a passo;
 
 Cilindro de fixação;
 
-Acoplamento do cilindro;
+Correia;
+
+Polia;
 
 Mach3;
 
