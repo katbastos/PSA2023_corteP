@@ -82,7 +82,13 @@ Eletroválvulas.
 
 ### Visual Basic
 
+#### Modo Manual
+
+#### Modo Automático
+
 ## Planeamento do Projeto
+
+-- diagrama Gaant
 
 ### Projeto Mecânico
 
@@ -110,7 +116,7 @@ Francisco Gonçalves
 
 ### Programação
 
-Catarina BAstos
+Catarina Bastos
 
 -Programação em Linguagem C#
 
